@@ -2,7 +2,7 @@
 
 ## Mon parcours
 
-Issu de la filière Génie électrique et Informatique Industrielle, j'ai évolué pendant 15 ans dans la sphère technique (électricité/climatisation) — notamment en maintenance industrielle itinérante et en poste de Field Service Engineer. Ce parcours varié m'a permis de découvrir un goût particulier pour les systèmes et les réseaux. J'ai décidé de me reconvertir dans le métier de l'informatique — systèmes et réseaux — avec l'objectif d'évoluer vers la cybersécurité par la suite, avec un intérêt particulier pour l'IA (agentique notamment).
+Issu de la filière Génie électrique et Informatique Industrielle, j'ai évolué pendant 15 ans dans la sphère technique (électricité/climatisation) — notamment en maintenance industrielle itinérante et en poste de Field Service Engineer. Ce parcours varié m'a permis de découvrir un goût particulier pour les systèmes et les réseaux. J'ai décidé de me reconvertir dans le métier de l'informatique — systèmes et réseaux — avec l'objectif d'évoluer vers la cybersécurité par la suite, et un intérêt particulier pour l'IA (agentique notamment).
 
 J'ai créé ce GitHub pour partager les projets que je vais réaliser durant cette reconversion.
 
