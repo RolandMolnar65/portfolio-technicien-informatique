@@ -1,0 +1,26 @@
+# Secrets et identifiants — ne jamais publier
+*.pfx
+*.pem
+*.key
+*.env
+secrets/
+credentials/
+**/mots-de-passe*
+**/passwords*
+
+# Exports de VM / images disque (trop volumineux pour git)
+*.vdi
+*.vbox
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.iso
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Brouillons de travail non destinés à la publication
+**/brouillons/
+**/draft/
